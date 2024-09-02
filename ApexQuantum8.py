@@ -34,8 +34,8 @@ PREDICTION_THRESHOLD_UPPER = 0.65
 PREDICTION_THRESHOLD_LOWER = 0.35
 
 # Paramètres de connexion MT5 (à remplacer par vos informations)
-MT5_ACCOUNT = 179775260
-MT5_PASSWORD = "Volg@t606050"
+MT5_ACCOUNT = 17977526
+MT5_PASSWORD = ""
 MT5_SERVER = "Exness-MT5Trial9"
 
 DATA_FOLDER = "apex_quantum_data"
